@@ -1,5 +1,5 @@
 # RAMANDIAMANANA-Iavonirina-Ambinintsoa-
-Installation de MYSQL/APACHE/PHP
+# Installation de MYSQL/APACHE/PHP
 Avant toute installation procedons d'abord a: 
 	 sudo apt install build-essential
 La commande sudo apt install build-essential sert à installer :

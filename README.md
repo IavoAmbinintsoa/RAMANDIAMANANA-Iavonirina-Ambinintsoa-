@@ -1,2 +1,2 @@
 # RAMANDIAMANANA-Iavonirina-Ambinintsoa-
-Intsallation de MYSQL/APACHE/PHP
+Installation de MYSQL/APACHE/PHP

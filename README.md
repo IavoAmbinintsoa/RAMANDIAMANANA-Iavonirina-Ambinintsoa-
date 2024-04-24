@@ -6,7 +6,7 @@ La commande sudo apt install build-essential sert à installer :
 _ un ensemble d'outils de base nécessaires pour la compilation de logiciels sur un système Linux comme :
  - gcc : Le compilateur C ; g++ : Le compilateur C++ et autre.
 //----------------------------------------------------------------------------//
-	# INSTALLATION PHP
+	 INSTALLATION PHP
 Décompressez et désarchivez le fichier php-8.3.6.tar.gz qui a été téléchargé depuis https://php.net :
 	 tar -zxvf php-8.3.6.tar.gz 
 Après la décompression et le désarchivage, nous travaillons dans le répertoire du fichier PHP :
@@ -30,7 +30,7 @@ Pour le tester :
 	 php -v
 .
 //------------------------------------------------------------------------------//
-	# INSTALLATION DE MYSQL
+	 INSTALLATION DE MYSQL
 Tout d'abord, téléchargeons le fichier source de MySQL 8.3.0 depuis le site officiel...
 
 Maintenant, vérifions que le fichier est bien présent à l'aide de la commande :
@@ -75,7 +75,7 @@ Vérifions que MySQL est installé correctement :
 	mysql  Ver 8.3.0 for Linux on x86_64 (source distributions)
 Cela nous indique que le fichier a ete installer deuis la code source
 //--------------------------------------------------------------------------------//
-		# INSTALATION DE APACHE
+		 INSTALATION DE APACHE
  Met à jour la liste des paquets disponibles et leurs versions
 	 sudo apt update
 	 tar -xvfz httpd-2.4.59.tar.gz
